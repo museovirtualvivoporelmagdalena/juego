@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	font:Arial, Helvetica, sans-serif;
+	font-size:80px;
+}
+
+#text_1{
+	text-decoration: none; 
+	background-color:transparent;
+	font-size:80px;
+	color:#FFF;
+	padding-left:5px;
+	outline: none;
+	margin:0px auto;
+	border:none;
+	font-weight: bold;
+	text-align: center;
+}
+
+
+::placeholder {color: #CC6E27;opacity: 1;}
+:-ms-input-placeholder {color: #CC6E27;}
+::-ms-input-placeholder {color: #CC6E27;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
